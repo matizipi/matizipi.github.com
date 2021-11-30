@@ -60,7 +60,6 @@ td:nth-of-type(1){
     /**box-shadow: diferenciahorizontal diferenciavertical desenfoque amplitud colorsombra;**/
     box-shadow: 0 3px 6px rgba(0,0,0,0,16), 0 3px 6px rgba(0,0,0,0,23);
     position: relative;
-    padding: 1.8em;
     overflow-y: scroll;
 }
 .actions{
